@@ -7,3 +7,4 @@
 * **HTML-builder**
   - This project was created while studying at RS SHOOL https://rs.school/index.html Stage 1 2022q3
   - Task: https://github.com/EvgeniiMal/HTML-builder
+  - Stack: Node js
